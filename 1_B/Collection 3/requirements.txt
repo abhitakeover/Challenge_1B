@@ -1,0 +1,4 @@
+pymupdf
+numpy
+scikit-learn
+nltk==3.8.1  # Pinned version to ensure compatibility
